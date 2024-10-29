@@ -133,6 +133,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 	 - PentesterLab: https://pentesterlab.com/referral/olaL4k8btE8wqA (premium)
 
  - **Online Labs**
+         - LabEx: https://labex.io/skilltrees/cybersecurity (premium/free)
 	 - PortSwigger Web Security Academy: https://portswigger.net/web-security
 	 - OWASP Juice Shop: https://owasp.org/www-project-juice-shop/
 	 - XSSGame: https://xss-game.appspot.com/
